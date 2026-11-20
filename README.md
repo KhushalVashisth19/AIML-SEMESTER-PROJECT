@@ -8,7 +8,7 @@ Custom Whisper-Large-V2 architecture for Air Traffic Control speech recognition 
 - **Audio & Text Pipeline**: 16 kHz spectral subtraction ($\alpha = 0.3$), ICAO domain prompting, beam search (`num_beams=5`), and digit-to-word post-processing.
 
 ## Datasets
-- **ATCOSIM Corpus** (`Jzuluaga/atcosim_corpus`) — Train & unseen test subsets (`100`, `200`, `500` samples)
+- **ATCOSIM Corpus** (`Jzuluaga/atcosim_corpus`) — Train & unseen test subsets (`100`, `200` samples)
 - **UWB-ATCC Corpus** (`Jzuluaga/uwb_atcc`)
 - **ATCO2 Corpus 1h** (`Jzuluaga/atco2_corpus_1h`)
 

@@ -1,0 +1,12 @@
+transformers==4.46.3
+accelerate==1.1.0
+datasets
+soundfile
+librosa
+numpy
+jiwer
+evaluate
+scikit-learn
+torchaudio
+peft
+inflect

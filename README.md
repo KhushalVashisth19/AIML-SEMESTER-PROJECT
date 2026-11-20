@@ -1,5 +1,7 @@
 # AIML-SEMESTER-PROJECT
 
+Submitted in partial fulfillment of the requirements for the course **AI and Machine Learning** (**Course Code: `CSCSE101`**).
+
 Custom Whisper-Large-V2 architecture for Air Traffic Control speech recognition (ATC-ASR) using spectral subtraction, parameter-efficient LoRA fine-tuning, and multi-layer encoder/decoder skip connections.
 
 ## Architecture Highlights
